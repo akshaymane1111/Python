@@ -1,0 +1,8 @@
+A= set ()
+print (len(A))
+print(type(A))
+A.add(7)
+A.add(8)
+A.add ((1,2,3))
+A.union ({2,3})
+print(A)
